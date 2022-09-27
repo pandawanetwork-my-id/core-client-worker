@@ -1,0 +1,16 @@
+{
+  "name": "web-microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rohmanahmad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.4",
+    "rohmanwebid-core-server": "^1.0.0-rc1"
+  }
+}
